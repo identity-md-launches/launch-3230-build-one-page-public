@@ -1,0 +1,175 @@
+{
+  "checks": [
+    {
+      "name": "All proposal sections are present in the requested order",
+      "passed": true
+    },
+    {
+      "name": "The product and main action are on the first 390 wide screen",
+      "passed": true
+    },
+    {
+      "name": "Keyboard skip navigation reaches main with visible focus",
+      "passed": true
+    },
+    {
+      "name": "Contents opens by keyboard and Escape returns focus",
+      "passed": true
+    },
+    {
+      "name": "Choosing a contents link closes the menu and focuses its section",
+      "passed": true
+    },
+    {
+      "name": "Read, founder questions, back to top and browser history navigate",
+      "passed": true
+    },
+    {
+      "name": "The proposal download contains the exported text and source links",
+      "passed": true
+    },
+    {
+      "name": "Metadata assets resolve from a static hosting subpath",
+      "passed": true
+    },
+    {
+      "name": "No page overflow across phone, tablet and desktop widths",
+      "passed": true
+    },
+    {
+      "name": "Both local variable fonts load at the implemented weights",
+      "passed": true
+    },
+    {
+      "name": "Rendered text, controls and the focus token have sufficient contrast",
+      "passed": true
+    },
+    {
+      "name": "Text enlargement to 200 percent keeps content within the page",
+      "passed": true
+    },
+    {
+      "name": "Axe finds no WCAG A or AA violations on mobile or desktop",
+      "passed": true
+    },
+    {
+      "name": "Reduced motion, readable keys and the diagram render on a phone",
+      "passed": true
+    },
+    {
+      "name": "The complete document and native navigation work without JavaScript",
+      "passed": true
+    },
+    {
+      "name": "No runtime exceptions, failed local resources or external requests",
+      "passed": true
+    }
+  ],
+  "measurements": {
+    "engine": "chromium",
+    "version": "155.0.8059.12",
+    "mobileAction": {
+      "x": 24,
+      "y": 518.828125,
+      "width": 207,
+      "height": 49.59375
+    },
+    "reflow": [
+      {
+        "viewport": 320,
+        "content": 320
+      },
+      {
+        "viewport": 390,
+        "content": 390
+      },
+      {
+        "viewport": 640,
+        "content": 640
+      },
+      {
+        "viewport": 768,
+        "content": 768
+      },
+      {
+        "viewport": 1056,
+        "content": 1056
+      },
+      {
+        "viewport": 1057,
+        "content": 1057
+      },
+      {
+        "viewport": 1440,
+        "content": 1440
+      }
+    ],
+    "contrast": [
+      {
+        "selector": "main",
+        "foreground": "rgb(37, 53, 44)",
+        "background": "rgb(248, 247, 242)",
+        "ratio": 12.05
+      },
+      {
+        "selector": ".byline",
+        "foreground": "rgb(92, 101, 94)",
+        "background": "rgb(248, 247, 242)",
+        "ratio": 5.63
+      },
+      {
+        "selector": ".gap-grid p",
+        "foreground": "rgb(92, 101, 94)",
+        "background": "rgb(238, 238, 230)",
+        "ratio": 5.18
+      },
+      {
+        "selector": ".source-link",
+        "foreground": "rgb(43, 96, 76)",
+        "background": "rgb(248, 247, 242)",
+        "ratio": 6.8
+      },
+      {
+        "selector": ".button-primary",
+        "foreground": "rgb(248, 247, 242)",
+        "background": "rgb(43, 96, 76)",
+        "ratio": 6.8
+      },
+      {
+        "selector": "focus token against page",
+        "foreground": "rgb(43, 96, 76)",
+        "background": "rgb(248, 247, 242)",
+        "ratio": 6.8
+      }
+    ],
+    "controlStates": {
+      "focus": {
+        "width": "2px",
+        "style": "solid",
+        "color": "rgb(43, 96, 76)"
+      },
+      "hover": "#204b3a",
+      "pressed": "#173b2d"
+    },
+    "textEnlargement": [
+      {
+        "viewport": 320,
+        "content": 320,
+        "offenders": []
+      },
+      {
+        "viewport": 390,
+        "content": 390,
+        "offenders": []
+      },
+      {
+        "viewport": 1440,
+        "content": 1440,
+        "offenders": []
+      }
+    ]
+  },
+  "limitations": [
+    "Text enlargement is not a browser native zoom test. Emulation is not physical device or screen reader testing. External source availability is not tested."
+  ]
+}

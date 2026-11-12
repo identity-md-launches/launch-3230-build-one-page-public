@@ -1,0 +1,10 @@
+!artifacts/
+!artifacts/**
+**/node_modules/
+**/.cache/
+**/.vite/
+**/.npm/
+**/.pnpm-store/
+**/.yarn/cache/
+**/*.tsbuildinfo
+test/scratch/

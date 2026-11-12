@@ -1,0 +1,294 @@
+Independent proposal by ultrapara of uxp-labs.
+
+Two swarms,
+one card.
+
+a proposal for Claus to become the second swarm beside IMD, adjacent and not a copy.
+
+proposal v0.3, revised after an IMD swarm review of 18 agent steps.
+
+Not an official page of Claus, IMD, Paradigm or Tempo. Nothing here is agreed by either team.
+
+The idea in three lines
+
+IMD builds.
+
+Claus reviews, houses and runs what gets built.
+
+They trade work through one small open profile, each paid in its own asset, so a third swarm can join without a redesign.
+
+Thesis
+
+Matt Huang wrote on Nov 10 2026 about swarm riders, the few people who can reliably command large swarms of agents, and about swarm native companies.
+Read Matt Huang’s post (https://x.com/matthuang/status/2120209025099043286)
+What the proposal takes from it
+
+• The product is the rider’s interface. One brief, one approved budget.
+
+• Every job carries its test. The quote fixes the rubric before work starts.
+
+• Riders get a record before they get rewards.
+
+• No humans between the swarms. A quote, a card and a test, no joint committee.
+
+• The end product is a swarm native company. It comes last.
+
+Where each network stands today
+
+Facts checked on Nov 12 2026.
+
+IMD
+imd.fun (https://imd.fun)
+
+• 2,000 NFT seats, each an agent on the holder’s own machine and AI plan
+
+• A control plane splits a job across seats
+
+• Flat 0.5 IMD a request, no refunds
+
+• Orders over HTTP or through an intake contract on Ethereum and Robinhood Chain
+
+• Seats registered under ERC-8004 on Ethereum
+
+Claus
+claus.si (https://claus.si)
+
+• A City any wallet can enter with agents, projects, hosting, Jobs and launches
+
+• 300 NFT houses on Ethereum
+
+• Jobs escrow in ETH or CLAUS on Ethereum with onchain claim, delivery and acceptance
+
+• Independent review that is advisory
+
+• Paid services
+
+• The CLAUS token on Robinhood Chain
+
+Already linked: a disputed Claus paid deal goes to a panel of five IMD members, and four must agree.
+
+The gap
+
+• No bounded set of operators
+
+Houses are property and access, not capacity.
+
+• Review does not bind
+
+• No common receipt
+
+That the other network can read.
+
+• Settlement is split
+
+Across Robinhood Chain, Ethereum and Base.
+
+• Keys sit with single wallets
+
+Neither side publishes the full map.
+
+The design
+
+• Division of labor
+
+IMD builds and launches. Claus reviews, houses and runs.
+
+• Four separate powers
+
+Assessing, accepting, settling and executing an upgrade stay in different hands.
+
+• Independence means a different controller, not a different brand
+
+Reviewers assigned, reports sealed until all are in, paid whatever they conclude.
+
+• No shared token, treasury, scheduler or keys
+
+Seven pieces of work
+
+• Publish the authority map
+
+For every contract, who can upgrade, mint, change a price, write results or pause.
+
+• Upgrade review as the first product
+
+Advisory until a timelock exists.
+
+• The work agreement
+
+Five operations any swarm implements: discover, quote, order, read, record, with signed receipts.
+
+• Operators, not houses
+
+Houses keep every right, do not have to work, and may name one delegate.
+
+• Pay for the work first
+
+Each review quoted from its cost, reviewers paid whatever the verdict, no burn in the pilot.
+
+• Two capped adapters
+
+No bridge, no IOUs between treasuries.
+
+• The rider ledger
+
+Opt in signed receipts, no score and no rewards until it has run.
+
+The swarm card
+
+One signed, versioned file.
+
+• Who are your seats?
+
+• What do you sell?
+
+• What does it cost?
+
+• How do I pay?
+
+• What do I get back?
+
+• Who checked it?
+
+• Who holds the keys, and what happens when it fails?
+
+A third, unrelated swarm passing the profile with no custom work is the test that it is stable.
+
+Chains, in order
+
+• Ethereum
+
+For identity and records.
+
+• Robinhood Chain
+
+For Claus ordering from IMD.
+
+• Base
+
+For IMD buying Claus services.
+
+• FLOP (devnet)
+
+Later as an opt in compute lane.
+
+• Tempo
+
+Later for rider budgets in stablecoins.
+
+Phases and exit tests
+
+• Phase 0
+
+Both sides publish the authority map and the founders answer the questions.
+
+Exit test
+Exit is a yes or no.
+
+• Phase 1
+
+IMD audits one real Claus upgrade through its existing intake and Claus holds the upgrade until the report is public, then three jobs each way.
+
+Exit test
+Exit is linked receipts for all of them.
+
+• Phase 2
+
+A paid review pilot, five to ten operators, thirty at most.
+
+Exit test
+Seeded defects and failure drills.
+
+• Phase 3
+
+Cards live on both domains.
+
+Exit test
+A third swarm passes.
+
+• Phase 4
+
+Rider rewards and the first swarm native company come here.
+
+Exit test
+Grow only on evidence.
+
+Who holds the keys today
+
+Plain facts read from chain on Nov 12 2026.
+
+IMD Intake on Ethereum
+
+Intake
+
+0xa43e6f75ee006411f79ac1c84120606c2330de82
+
+Owner
+
+0x047F606fD5b2BaA5f5C6c4aB8958E45CB6B054B7
+
+Result writer
+
+0x3d3C0Df7C1a17d384545e9D7C8228897bD9625CB
+
+Owner and result writer are both plain wallets.
+
+CLAUS on Robinhood Chain
+
+CLAUS
+
+0x163015276f3244bC2CcB78b4D69cc8A4069EfFAC
+
+Owned by contract
+
+0x979D5810D32292358639f25294472f01c95bDc46
+
+Which is owned by wallet
+
+0xBb145cA83272c3806D4dDc75cA1D5514789cF1C5
+
+The proposal asks both teams to publish what each key can do.
+
+Questions for the founders
+
+For IMD
+
+• Will IMD sign job receipts with a published key?
+
+• Will it publish what the Intake owner and writer can do?
+
+• Is demand routed from Claus welcome, and can a rider take over a job a router paid for?
+
+• Who arbitrates a dispute over IMD’s own work?
+
+For Claus
+
+• Will the Robinhood token and hook go behind an enforced timelock?
+
+• Is review advisory, required or binding?
+
+• Which asset and chain pay for a review?
+
+• What does a house confer, and may holders delegate?
+
+For both
+
+• Who is accountable to the rider for a combined order?
+
+• What loss cap applies before the first paid purchase?
+
+How this was made
+
+The first draft was reviewed by three IMD swarm jobs, six agents each.
+
+• Protocol review (https://explorer.imd.fun/jobs/3b0cedd1-2d46-4ab7-a5d1-e1e5f0272883)
+
+• Economics review (https://explorer.imd.fun/jobs/5870f769-1cf0-42c8-a606-1596f45f6dc5)
+
+• Adversary review (https://explorer.imd.fun/jobs/22efaf94-3030-4c22-b2b4-1be77354ea01)
+
+The swarm cut several ideas from the first draft, among them turning all 300 houses into seats and a flat CLAUS price.
+
+Independent proposal by ultrapara, uxp-labs.
+
+Not affiliated with Claus, IMD, Paradigm or Tempo.
+Nothing here is agreed by either team. Not financial advice.
